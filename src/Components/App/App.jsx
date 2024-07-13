@@ -1,4 +1,3 @@
-import react
 import { useState, useEffect } from "react";
 import ContactForm from "../ContactForm/ContactForm";
 import SearchBox from "../SearchBox/SearchBox";
